@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /api/          # Disallow crawling of the API routes
+Allow: /
+
+Sitemap: https://next-developer-seo.vercel.app/sitemap.xml
